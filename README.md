@@ -2,8 +2,8 @@
 The sales dashboard, which has been created using Excel, offers an intuitive and visually appealing way to track and analyze sales data. 
 
 REQUIREMENTS OF THE BUSINESS
-1)	Import file ' Assignment 5 Dataset' with use of Power Query.
-2)	Assignment 5 Dataset' contains 3 sheets, use Power Pivot to establish relationship, Query to Clean and upload the data into Data Model.
+1)	Import file 'Dataset' with use of Power Query.
+2)  Dataset' contains 3 sheets, use Power Pivot to establish relationship, Query to Clean and upload the data into Data Model.
 3)	Create different Reports, Use maximum features offered in power pivot. Use conditional formatting and Different types of appropriate Graphs/Charts
 4)	Use Slicers, Timeline, Formatting techniques to create a Dashboard.
 5)	Analyze the Dataset and Create a Dashboard.
